@@ -67,7 +67,7 @@
     content:"";
     position: absolute;
     /* margin-top: 60px */
-    background: url('Random files/honeycomb3.jpg') no-repeat center center;
+    background: url('resources/honeycomb3.jpg') no-repeat center center;
     height: 100%;
      width: 100% ;
     z-index:-1;
